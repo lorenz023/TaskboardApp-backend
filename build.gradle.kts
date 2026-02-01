@@ -11,7 +11,7 @@ description = "Backend for Taskboard App"
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(20)
+		languageVersion = JavaLanguageVersion.of(21)
 	}
 }
 
